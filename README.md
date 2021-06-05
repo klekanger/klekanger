@@ -7,6 +7,6 @@ In 2018 i wanted to pick up programming again, and I set a goal for myself to le
 I have good skills in vanilla Javascript and Node.js, HTML and CSS. However, I have focused mostly on React.js - and React based frameworks like Gatsby.js and Next.js. I've worked mostly on the frontend, but have a good understanding of the backend - and have set up servers and APIs in Node.js (with Express) or as serverless functions in AWS Lambda or Netlify Functions. 
 
 ## My latest project
-My biggest project so far has been to build a web site for my local housing association. It's built with React/Gatsby.js, Contentful (as a headless CMS), Chakra UI and with Auth0 authentication to protect private routes of the web site. You can [read about it on my personal blog](https://www.lekanger.no/project/del-1-slik-bygget-jeg-nye-nettsider-til-sameiet-med-gatsby-og-chakra-ui) (in Norwegian). The source code is [here](https://github.com/klekanger/gartnerihagen).
+My biggest project so far has been to build a web site for my local housing association ([you can see it here - https://gartnerihagen-askim.no](https://gartnerihagen-askim.no/). It's built with React/Gatsby.js, Contentful (as a headless CMS), Chakra UI and with Auth0 authentication to protect private routes of the web site. You can [read about it on my personal blog](https://www.lekanger.no/project/del-1-slik-bygget-jeg-nye-nettsider-til-sameiet-med-gatsby-og-chakra-ui) (in Norwegian). The source code is [here](https://github.com/klekanger/gartnerihagen).
 
 - [My LinkedIn profile](https://www.linkedin.com/in/lekanger/)
