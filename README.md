@@ -8,7 +8,9 @@ I have good skills in vanilla Javascript and Node.js, HTML and CSS. However, I h
 
 I try to keep up with modern web and application development by reading, listening to developer podcasts, participating in online web conferences, and by taking courses - like the professional and expert courses on Frontend Masters. And of course: Practicing by coding on different projects every day.
 
-## My latest project
+## My latest projects
 My biggest project so far has been to build a web site for my local housing association (you can see it here: [https://gartnerihagen-askim.no](https://gartnerihagen-askim.no/). It's built with React/Gatsby.js, Contentful (as a headless CMS), Chakra UI and with Auth0 authentication to protect private routes of the web site. You can [read about it on my personal blog](https://www.lekanger.no/project/del-1-slik-bygget-jeg-nye-nettsider-til-sameiet-med-gatsby-og-chakra-ui) (in Norwegian). The source code is [here](https://github.com/klekanger/gartnerihagen).
+
+My latest project is building a web site for a (at the moment) fictious company called "Lekanger tekst & kode". I have made this with Next.js, Typescript and Sanity, with Tailwind CSS for styling. [Have a look at it here](https://github.com/klekanger/kurt-next-website)
 
 - [My LinkedIn profile](https://www.linkedin.com/in/lekanger/)
