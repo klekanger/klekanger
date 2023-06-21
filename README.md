@@ -11,7 +11,7 @@ I try to keep up with modern web and application development by reading, listeni
 ## My latest projects
 My latest game is Attack of the Space Nerds: [Attack of the Space Nerds](https://github.com/klekanger/attack-of-the-space-nerds). This is a 2D space shooter with parallax scrolling. I made this to practice building a game from scratch without any game engines, and also to practice working with JavaScript classes and object oriented programming. I chose to make everything in TypeScript to learn some new concepts and to practice my coding skills. You can play a working (?) version of the game here: **[Attack of the Space Nerds](https://attack-of-the-space-nerds.netlify.app/)**
 
-[Screenshot from Attack of the Space Nerds](https://github.com/klekanger/attack-of-the-space-nerds/blob/main/spacenerds-screenshots.jpg)
+![Screenshot from Attack of the Space Nerds](https://github.com/klekanger/attack-of-the-space-nerds/blob/main/spacenerds-screenshots.jpg)
 
 Another recent, and more "serious", project was building my new personal web page at [lekanger.no](https://www.lekanger.no). I have made this with Next.js, Typescript and Sanity, with Tailwind CSS for styling. This is a monorepo using Vercel's Turborepo, and everything is deployed to Vercel (except for Sanity Studio, which is hosted at Sanity). [Have a look at the code here](https://github.com/klekanger/kurt-personal-web-2)
 
