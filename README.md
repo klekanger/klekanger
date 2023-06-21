@@ -19,6 +19,8 @@ Another recent, and more "serious", project was building my new personal web pag
 
 I have also built the web site for my local housing association (you can see it here: [https://gartnerihagen-askim.no](https://gartnerihagen-askim.no/). It's built with React/Gatsby.js, Contentful (as a headless CMS), Chakra UI and with Auth0 authentication to protect private routes of the web site. You can [read about it on my personal blog](https://www.lekanger.no/project/del-1-slik-bygget-jeg-nye-nettsider-til-sameiet-med-gatsby-og-chakra-ui) (in Norwegian). The source code is [here](https://github.com/klekanger/gartnerihagen).
 
+![Screenshot from gartnerihagen.no](./gartnerihagen.jpg)
+
 Here's my take on a classic "memory game". I've called the game "Teflonhjerne" (teflon brain). The game is mostly written in TypeScript, with Vite as build tool. I've used GSAP for some animations, the rest is just JS/TS, HTML and CSS. [Try playing the game here: Teflonhjerne](https://teflonhjerne.netlify.app/) - or have a look at [the source code here](https://github.com/klekanger/teflonhjerne). The game is a PWA, which makes it installable. Known bugs: audio lag on Safari on iOS. 
 
 - [My LinkedIn profile](https://www.linkedin.com/in/lekanger/)
