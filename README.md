@@ -25,4 +25,5 @@ I have also built the web site for my local housing association (you can see it 
 
 Here's my take on a classic "memory game". I've called the game "Teflonhjerne" (teflon brain). The game is mostly written in TypeScript, with Vite as build tool. I've used GSAP for some animations, the rest is just JS/TS, HTML and CSS. [Try playing the game here: Teflonhjerne](https://teflonhjerne.netlify.app/) - or have a look at [the source code here](https://github.com/klekanger/teflonhjerne). The game is a PWA, which makes it installable. Known bugs: audio lag on Safari on iOS. 
 
+![screenshot from Teflonhjerne](./teflonhjerne.jpg)
 
