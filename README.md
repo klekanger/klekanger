@@ -8,6 +8,8 @@ I have good skills in vanilla Javascript, TypeScript and Node.js, HTML and CSS. 
 
 I try to keep up with modern web and application development by reading, listening to developer podcasts, participating in online web conferences, and by taking courses - like the professional and expert courses on Frontend Masters. And of course: Practicing by coding on different projects every day.
 
+- [My LinkedIn profile](https://www.linkedin.com/in/lekanger/)
+
 ## My latest projects
 My latest project is [Attack of the Space Nerds](https://github.com/klekanger/attack-of-the-space-nerds) (read more about it in the repo). This is a 2D space shooter with parallax scrolling. I made this to practice building a game from scratch without any game engines, and also to practice working with JavaScript classes and object oriented programming. I chose to make everything in TypeScript to learn some new concepts and to practice my coding skills. You can play a working (?) version of the game here: **[Attack of the Space Nerds](https://attack-of-the-space-nerds.netlify.app/)**
 
@@ -23,4 +25,4 @@ I have also built the web site for my local housing association (you can see it 
 
 Here's my take on a classic "memory game". I've called the game "Teflonhjerne" (teflon brain). The game is mostly written in TypeScript, with Vite as build tool. I've used GSAP for some animations, the rest is just JS/TS, HTML and CSS. [Try playing the game here: Teflonhjerne](https://teflonhjerne.netlify.app/) - or have a look at [the source code here](https://github.com/klekanger/teflonhjerne). The game is a PWA, which makes it installable. Known bugs: audio lag on Safari on iOS. 
 
-- [My LinkedIn profile](https://www.linkedin.com/in/lekanger/)
+
